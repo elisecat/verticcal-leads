@@ -1,7 +1,3 @@
-# **README del Proyecto Verticcal Leads**
-
----
-
 ## **1. Información General**
 
 ### 1.1 Nombre del Microservicio
